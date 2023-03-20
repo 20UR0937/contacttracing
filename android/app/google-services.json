@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168127031547",
+    "project_id": "contactpractice-c88ee",
+    "storage_bucket": "contactpractice-c88ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168127031547:android:5df48a5aafec8d19eda85e",
+        "android_client_info": {
+          "package_name": "com.example.contact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168127031547-0k4491aglhm8m3t62o9f84tfpg9s1d5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8-x_kex_1qBWMfSDhO6Ap2V0Ak3xqQ2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168127031547-0k4491aglhm8m3t62o9f84tfpg9s1d5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
